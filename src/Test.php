@@ -16,6 +16,6 @@ class Test
 
     public function say()
     {
-        return 'Hello World From Github';
+        return 'Hello World From Composer';
     }
 }
